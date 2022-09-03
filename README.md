@@ -1,8 +1,6 @@
 # Hi, I am Garry 👋
 
-![laptop](https://user-images.githubusercontent.com/108343215/188253715-67648c8a-d5bb-4c49-bd98-a85bdf0c6f44.png)
-
-<img src="laptop.png">
+<img src="laptop.png" width="200" height="200">
 
 <p align="center">Image by <a href="https://pixabay.com/users/joshuaworoniecki-12734309/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5673901">Joshua Woroniecki</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5673901">Pixabay</a></p>
 
