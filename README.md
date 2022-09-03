@@ -12,7 +12,17 @@
 
 At Raritan Valley Community College, *I am a student*. Currently, I am in a program for computer programming and interface design web development. Coding is something I am passionate about learning. I am currently working on improving my README file using Markdown. At the moment, I am learning JavaScript and Object Oriented Programming.
 
++ Fun fact: Foreign money is something I collect.
 
+
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+<!-- 
 **Ovide-g/Ovide-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,7 +31,7 @@ Here are some ideas to get you started:
 - 📘 JavaScript and Object Oriented Programming are currently two subjects I am learning.
 - 💶 Fun fact: Foreign money is something I collect.
 - 🧭 You can ask me questions about HTML and CSS.
-<!-- 👯 I’m looking to collaborate on ...
+-👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
