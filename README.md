@@ -1,4 +1,4 @@
-# Hi, I am Garry 👋
+# Hi, I am Garry 👋 💻 
 
 <p align="center">
 <img src="laptop.png" width="700" height="500">
